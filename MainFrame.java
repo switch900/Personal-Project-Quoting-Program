@@ -2,7 +2,8 @@
  * Paper Thickness Calculator MainFrame class
  * 
  * File: MainClass.java
- * Date:October 27, 2018
+ * Date:January 1, 2019
+ * Time: 4:24:00 PM
  * 
  * @author Andrew Hewitson
  */
