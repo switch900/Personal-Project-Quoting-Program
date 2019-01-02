@@ -5,4 +5,6 @@ Eventually the goal is to use a SQL database which would contain all of the pric
 
 At this point the program is only printing back on to the MainFrame a summary of the information the user has entered.  This information will be sent to a new dialog box which will be exportable as a PDF to the server so sales people can email this to the customer.  The quotes will also be saved as Hashmaps and exported to a CSV file for saving on the server with the quote number being the Key. (eventually to a SQL server) This information will be searchable by company name, estimator's name, binding type, or date.  It will also be searchable by quote number so anyone that needs to can bring a quote back up for immediate viewing.   
 
+![alt text](https://github.com/switch900/Personal-Project-Quoting-Program/blob/master/Capture190101.JPG)
+
 
